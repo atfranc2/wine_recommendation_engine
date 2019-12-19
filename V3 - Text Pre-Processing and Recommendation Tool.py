@@ -23,6 +23,7 @@ reviews = wine_data['description']
 
 # In[4]:
 
+### Tokenizes the words
 
 term_vec2 = [ ]
 
